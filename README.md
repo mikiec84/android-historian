@@ -5,7 +5,7 @@
 Android Ultimate Historian 
 ===================================
 
-This app is designed to demonstrate the various components of the Android Support libraries, in particular, showing how to implement Material design into your app, using these controls.
+This app is designed to demonstrate the various cOmponents of the Android Support libraries, in particular, showing how to implement Material design into your app, using these controls.
 
 This is not a complete example (but will be growing), and is intended to provide a high-level overview of many of the main controls in the Support and Design libraries:
 
